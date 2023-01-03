@@ -22,3 +22,5 @@ Python service that interacts with Gmail API to retrieve old emails 3 years ago 
     $ docker build -t gmail-old-email-remover-app .
     $ docker run -it --rm -p 8080:8080 gmail-old-email-remover-app:latest
 ```
+# License
+[GNU General Public License v3.0](LICENSE)
