@@ -14,7 +14,7 @@ Python service that interacts with Gmail API to retrieve old emails 3 years ago 
 
 6.) Install all the requirement libraries in requirements.txt: `pip install -r requirements.txt`
 
-7.) Run `Python3 app.py` locally and authenticate and authorize to the consent screen to retrieve a `token.json` file with token informations in it.
+7.) Run `Python app.py` locally and authenticate and authorize to the consent screen to retrieve a `token.json` file with token informations in it.
 
 ## Local Docker
 
